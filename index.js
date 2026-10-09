@@ -1,1 +1,21 @@
-#index 
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <title>Hello World</title>
+
+</head>
+
+<body>
+
+    <script>
+
+        document.body.innerHTML = "Hello World";
+
+    </script>
+
+</body>
+
+</html>
